@@ -1,0 +1,29 @@
+{
+  "name": "test-boot",
+  "version": "1.0.0",
+  "description": "boot test, test automation",
+  "main": "\\",
+  "scripts": {
+    "test": "test",
+    "cypress":"cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auzanzulhazmi/Test_boot.git"
+  },
+  "keywords": [
+    "e2e",
+    "test",
+    "cypress",
+    "automation"
+  ],
+  "author": "auzan ihtifazhuddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/auzanzulhazmi/Test_boot/issues"
+  },
+  "homepage": "https://github.com/auzanzulhazmi/Test_boot#readme",
+  "dependencies": {
+    "cypress": "^8.5.0"
+  }
+}
